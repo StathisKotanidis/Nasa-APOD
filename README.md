@@ -14,10 +14,11 @@ This project uses NASA's APOD (Astronomy Picture of the Day) API to allow users 
   - JavaScript (ES6+): Logic to interact with NASA's APOD API and dynamically update the UI.
   - NASA APOD API: External API used to retrieve the daily astronomy picture or video.
 
-Live Demo: 
-
 
 ## Future Enhancements
-  - oading Indicator: Add a loading spinner while the API request is in progress.
+  - Loading Indicator: Add a loading spinner while the API request is in progress.
   - Responsive design accross all devices
   - Styling Improvements: Enhance the UI/UX with better styling and layout adjustments.
+
+
+Live demo: https://stathiskotanidis.github.io/Nasa-APOD/
