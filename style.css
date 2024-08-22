@@ -1,0 +1,91 @@
+/* General styling */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  background-image: url("assets/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1rem;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+/* Header styling */
+
+header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header img {
+  width: 200px;
+}
+
+header span {
+  font-size: 3rem;
+  font-weight: 600;
+  color: white;
+}
+
+/* Main styling */
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+}
+
+.input-container {
+  width: 40%;
+  margin-left: 8rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.input-container input {
+  padding: 1rem;
+  gap: 3rem;
+}
+
+.input-container button {
+  background: black;
+  color: white;
+  width: 20%;
+}
+
+.media-container {
+  display: none;
+}
+
+.media-container {
+  width: 90%;
+  height: 600px;
+  border-radius: 10px;
+}
+
+#nasa-image,
+#nasa-video {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
