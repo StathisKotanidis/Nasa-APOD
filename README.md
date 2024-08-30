@@ -18,5 +18,6 @@ There are some future optimizations i would like to add, such as make the UI mor
 ## Lessons Learned:
 By building this application i  learned how to handle user input and dynamically update the DOM to provide an interactive user experience. Additionally, I gained valuable experience in working with third-party APIs, like NASA's APOD API, and understanding how to handle different types of data responses, such as images and videos. I didn’t even know there could be a video as a response in the first place, so when I found out while I was playing with the app, I was mind-blown! This unexpected discovery highlighted the importance of thoroughly exploring API documentation and being prepared for a variety of data types.
 
-
+## More Projects
+IP Atlas: https://stathiskotanidis.github.io/IP-Atlas/
 
