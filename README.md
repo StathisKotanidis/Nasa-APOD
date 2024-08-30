@@ -7,7 +7,7 @@ This application uses NASA's APOD (Astronomy Picture of the Day) API to allow us
 Link to Project: https://stathiskotanidis.github.io/Nasa-APOD/
 
 ## How It's Made:
-Tech used: HTML, CSS, JavaScript, Fetch API, Nas'a APOD API
+Tech used: HTML, CSS, JavaScript, Fetch API, Nasa's APOD API
 
 This application was built using HTML, CSS, and JavaScript to create a simple yet effective interface for exploring NASA's Astronomy Picture of the Day (APOD). The core functionality is powered by the Fetch API, which is used to make requests to NASA's APOD API. When a user selects a specific date, the app uses Fetch to retrieve data from the API, displaying either an image or a video for that day directly on the webpage. The design focuses on providing an intuitive user experience, allowing users to easily navigate and interact with the application to discover daily astronomy content.
 
